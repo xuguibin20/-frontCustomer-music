@@ -1,0 +1,72 @@
+@keyframes fade {
+  0% {
+  
+    opacity: 0;
+  }
+  100% {
+   
+    opacity: 1;
+  }
+}
+
+
+
+.fade1 {
+  animation: fade  1.5s ease-in-out;
+}
+
+.fade2-enter-to {
+opacity: 0;
+}
+.fade2-enter-active {
+  animation: fade 2s ease-in-out 2s;
+}
+
+
+
+@keyframes bounce-bottom {
+  0% {
+    transform: translateY(1000px);
+    opacity: 0;
+  }
+  60% {
+    opacity: 0;
+  }
+
+  90% {
+    transform: translateY(-20px);
+    opacity: 0.9;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.div1 {
+  animation: bounce-bottom 1s ease-out;
+}
+
+.div2 {
+  animation: bounce-bottom 1.4s ease-out;
+}
+
+.div3 {
+  animation: bounce-bottom 1.6s ease-out;
+}
+
+.div4 {
+  animation: bounce-bottom 1.8s ease-out;
+}
+
+.div5 {
+  animation: bounce-bottom 2.1s ease-out;
+}
+
+.div6 {
+  animation: bounce-bottom 2.4s ease-out;
+}
+
+.div7 {
+  animation: bounce-bottom 2.8s ease-out;
+}

@@ -1,0 +1,53 @@
+.play-bar { position: fixed; bottom: 0; width: 100%; transition: all 0.5s; -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); }
+
+.play-bar .item-up { position: absolute; bottom: 70px; left: 20px; cursor: pointer; }
+
+.play-bar .kongjian { display: flex; justify-content: center; align-items: center; flex-direction: row; flex-wrap: wrap; bottom: 0; height: 60px; width: 100%; min-width: 1000px;background-color: rgba(211 211 211, 0.5);}
+
+.play-bar .kongjian .item { position: relative; width: 80px; height: 50px; line-height: 60px; text-align: center; cursor: pointer; }
+
+
+.play-bar .kongjian .item .volume { position: absolute; display: none; height: 100px; top: -110px; right: 22px; }
+
+.play-bar .kongjian .item .show-volume { display: block; }
+
+.play-bar .kongjian .item-img { width: 60px; height: 60px;}
+img[src=""],
+
+img:not([src]) {
+
+  opacity: 0;
+
+}
+.play-bar .kongjian .item-img img { width: 100%;height:100%;}
+
+
+.play-bar .kongjian .playing-speed { height: 50px; width: 600px;margin-top:5px; display: flex; justify-content: center; align-items: center; flex-direction: row; flex-wrap: nowrap; }
+
+.play-bar .kongjian .playing-speed .current-time, .play-bar .kongjian .playing-speed .left-time { display: inline-block; width: 40px; text-align: center; font-size: 13px; color: #000000; font-weight: 500; top: -10px; }
+
+.play-bar .kongjian  .progress-box { width: 100%;
+  height: 4px;
+  position: relative;
+  z-index: 1;
+} 
+
+  
+
+.play-bar .kongjian  .progress-box .item-song-title { display: flex; justify-content: space-between; align-items: stretch; flex-direction: row; flex-wrap: nowrap; height: 20px; line-height: 10px; }
+
+.play-bar .kongjian  .progress-box .progress { width: 100%; background:rgba(211 211 211,0.3); height: 4px; }
+
+.play-bar .kongjian  .progress-box .progress .bg { height: 100%; }
+.play-bar .kongjian  .progress-box .progress .bg { height: 100%; }
+
+.play-bar .kongjian  .progress-box .progress .bg .cur-progress { height: 100%; background: #30a4fc; }
+
+.play-bar .kongjian  .progress-box .progress .idot { cursor: pointer; width: 16px; height: 16px; position: relative; border-radius: 50%; background-color: #000000; top: -11px; vertical-align: middle; }
+
+.turn { transform: rotate(180deg); }
+
+.show { bottom: -55px; }
+
+.icon { width: 1.2em; height: 1.2em; font-size: 1.2em; color: #000000; fill: currentColor; overflow: hidden; position: relative; }
+
