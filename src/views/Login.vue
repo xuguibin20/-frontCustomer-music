@@ -47,96 +47,96 @@
           <div class="swiper1-content">
             <div class="margin div6">
               <div class="slider move6">
-                <a href=""><img src="@/assets/img/Login/a.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/b.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/c.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/d.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/a.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/b.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/b.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/c.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/d.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/b.jpg" alt="" /></a>
               </div>
             </div>
           </div>
           <div class="swiper1-content" style="margin-top: 100px">
             <div class="margin div5">
               <div class="slider move5">
-                <a href=""><img src="@/assets/img/Login/e.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/f.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/g.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/h.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/e.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/f.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/e.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/f.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/g.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/h.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/e.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/f.jpg" alt="" /></a>
               </div>
             </div>
           </div>
           <div class="swiper1-content" style="margin-top: 160px">
             <div class="margin div3">
               <div class="slider move3">
-                <a href=""><img src="@/assets/img/Login/i.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/j.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/k.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/l.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/i.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/j.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/i.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/j.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/k.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/l.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/i.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/j.jpg" alt="" /></a>
               </div>
             </div>
           </div>
           <div class="swiper1-content" style="margin-top: 220px">
             <div class="margin div1">
               <div class="slider move1">
-                <a href=""><img src="@/assets/img/Login/m.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/n.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/o.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/p.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/m.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/n.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/m.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/n.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/o.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/p.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/m.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/n.jpg" alt="" /></a>
               </div>
             </div>
           </div>
           <div class="swiper1-content" style="margin-top: 200px">
             <div class="margin div2">
               <div class="slider move2">
-                <a href=""><img src="@/assets/img/Login/q.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/r.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/s.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/t.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/q.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/r.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/q.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/r.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/s.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/t.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/q.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/r.jpg" alt="" /></a>
               </div>
             </div>
           </div>
           <div class="swiper1-content" style="margin-top: 120px">
             <div class="margin div4">
               <div class="slider move4">
-                <a href=""><img src="@/assets/img/Login/u.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/v.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/w.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/x.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/u.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/v.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/u.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/v.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/w.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/x.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/u.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/v.jpg" alt="" /></a>
               </div>
             </div>
           </div>
           <div class="swiper1-content" style="margin-top: 100px">
             <div class="margin div5">
               <div class="slider move5">
-                <a href=""><img src="@/assets/img/Login/y.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/z.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/a1.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/a2.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/y.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/z.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/y.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/z.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a1.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a2.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/y.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/z.jpg" alt="" /></a>
               </div>
             </div>
           </div>
           <div class="swiper1-content">
             <div class="margin div7">
               <div class="slider move7">
-                <a href=""><img src="@/assets/img/Login/a3.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/a4.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/a5.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/a6.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/a3.jpg" alt="" /></a>
-                <a href=""><img src="@/assets/img/Login/a4.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a3.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a4.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a5.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a6.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a3.jpg" alt="" /></a>
+                <a><img src="@/assets/img/Login/a4.jpg" alt="" /></a>
               </div>
             </div>
           </div>

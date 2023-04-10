@@ -11,15 +11,15 @@
         <li>地区:{{ singer.location }}</li>
       </ul>
     </div>
-    <div class="alnum-content">
+    <div class="album-content">
       <div class="intro">
         <h2>{{ singer.name }}</h2>
         <span>{{ singer.introduction }}</span>
-        <div class="content">
-          <h2>歌单</h2>
-          <hr />
-          <AlbumContent :songList="listOfSongs"></AlbumContent>
-        </div>
+      </div>
+      <div class="song-body">
+        <h2>歌单</h2>
+        <hr />
+        <AlbumContent :songList="listOfSongs"></AlbumContent>
       </div>
     </div>
   </div>

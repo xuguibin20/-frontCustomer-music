@@ -2,7 +2,7 @@ import Vue from "vue";
 import App from "./App.vue";
 import TheHeader from "@/components/TheHeader.vue";
 import ScrollTop from "@/components/ScrollTop.vue";
-import TheFooter from "@/components/TheFooter.vue";
+
 import PlayBar from "@/components/PlayBar.vue";
 import TheList from "@/components/TheList.vue";
 
@@ -23,7 +23,7 @@ Vue.use(Element, { size: "small", zIndex: 3000 });
 
 Vue.component("TheHeader", TheHeader);
 Vue.component("ScrollTop", ScrollTop);
-Vue.component("TheFooter", TheFooter);
+
 Vue.component("PlayBar", PlayBar);
 Vue.component("TheList", TheList);
 
